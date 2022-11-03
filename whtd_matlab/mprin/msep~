@@ -1,0 +1,4 @@
+  fname="test2.m"
+  fkey="prin"
+  msep.pl "$fname" "$fkey"
+
